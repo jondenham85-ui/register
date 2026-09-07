@@ -1,14 +1,11 @@
 {
-  "description": "MAD Madison AI",
-  "domain": "madmadisonai.is-a.dev",
   "owner": {
     "username": "jondenham85-ui",
     "email": "jondenham85@gmail.com"
   },
   "records": {
     "TXT": {
-      "_vercel": "vc-domain-vercel.madmadisonai.is-a.dev.afc18556bfa9148f4912"
-    },
-    "CNAME": "cname.vercel-dns.com"
+      "_vercel": "vc-domain-verify=madmadisonai.is-a.dev,afc18556bfa9148f4912"
+    }
   }
 }
